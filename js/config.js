@@ -27,6 +27,10 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
+    ukzy: {
+        api: 'https://api.ukuapi88.com/api.php/provide/vod',
+        name: 'U酷资源'
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
