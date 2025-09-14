@@ -160,9 +160,9 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
-    1080zyku: {
-        api: 'https://api.1080zyku.com/inc/api_mac10.php',
-        name: 'TV-1080资源',
+    91md: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: 'AV-91麻豆',
         adult: true
     },
 
