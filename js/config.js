@@ -160,11 +160,6 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
-    91md: {
-        api: 'https://91md.me/api.php/provide/vod',
-        name: 'AV-91麻豆',
-        adult: true
-    },
 
     // 下面是资源失效率高的API源，不建议使用
     subo: {
