@@ -27,6 +27,11 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
+        1080zyku: {
+        api: 'https://api.1080zyku.com/inc/api_mac10.php',
+        name: 'TV-1080资源',
+        adult: true
+    }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
