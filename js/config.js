@@ -22,11 +22,6 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    1080zyku: {
-        api: 'https://api.1080zyku.com/inc/api_mac10.php',
-        name: 'TV-1080资源',
-        detail: 'https://api.1080zyku.com', 
-    },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
