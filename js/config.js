@@ -27,11 +27,6 @@ const API_SITES = {
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
     },
-    1080zyku: {
-      api: 'https://api.1080zyku.com/inc/api_mac10.php',
-      name: 'TV-1080资源',
-      detail: 'https://api.1080zyku.com',
-    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
